@@ -1,0 +1,7 @@
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Server\bin\Debug\Server.exe.config
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Server\bin\Debug\Server.exe
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Server\bin\Debug\Server.pdb
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Server\obj\Debug\Server.exe
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Server\obj\Debug\Server.pdb

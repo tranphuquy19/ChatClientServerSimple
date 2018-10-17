@@ -1,0 +1,6 @@
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Client\bin\Debug\Client.exe.config
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Client\bin\Debug\Client.exe
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Client\bin\Debug\Client.pdb
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Client\obj\Debug\Client.exe
+C:\Users\Tran Phu Quy\visual-workspaces\ChatClientServerSimple\Client\obj\Debug\Client.pdb
