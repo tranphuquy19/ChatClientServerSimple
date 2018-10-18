@@ -1,0 +1,11 @@
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\bin\Debug\BAITHIGIUAKI.exe.config
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\bin\Debug\BAITHIGIUAKI.exe
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\bin\Debug\BAITHIGIUAKI.pdb
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\obj\Debug\BAITHIGIUAKI.csprojAssemblyReference.cache
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\obj\Debug\BAITHIGIUAKI.Form1.resources
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\obj\Debug\BAITHIGIUAKI.Form2.resources
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\obj\Debug\BAITHIGIUAKI.Properties.Resources.resources
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\obj\Debug\BAITHIGIUAKI.csproj.GenerateResource.cache
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\obj\Debug\BAITHIGIUAKI.csproj.CoreCompileInputs.cache
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\obj\Debug\BAITHIGIUAKI.exe
+C:\Users\thusu\source\repos\BAITHIGIUAKI\BAITHIGIUAKI\obj\Debug\BAITHIGIUAKI.pdb
